@@ -1,5 +1,0 @@
-(Figure 1~3)
-Basic firing properties such as mean firing rate and spatial information score were computed from following codes: condition_sheet2_batch_4a4, condition_sheet2_function_4a4, condition_sheet2_display_4a4, calc_spainfo_p_function_4a4.
-
-(Figure 3)
-Population vector correlation matrix was constructed by population_correlation_display_4a11. 
